@@ -29,3 +29,21 @@
  - 이것이 우부투 리눅스다 책 및 youtube 이것이 우분투 리눅스다(개정판, Ubuntu LTS 20.04) 강의 학습
 
 ```
+
+```
+2021-07-28 학습 내용 
+ 우분투 서버 실습 
+   - virtualbox 로 ubuntu 설치 
+   - ubuntu 기본 설정 
+   - vsftp 설치 및 설정
+   
+2021-07-29 학습 내용 
+ 우분투 서버 실습 
+   - ssh 설치 및 설정 
+   - java 설치 및 설정(jdk11)
+   - tomcat 설치 및 설정(tomcat9)
+   - maridb 설치 및 설정
+     (10.3.29-MariaDB-0ubuntu0.20.04.1)
+   - svn 설치 및 설정
+
+```
